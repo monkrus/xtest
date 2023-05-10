@@ -20,5 +20,5 @@ If the performance is not satisfactory, you can try tuning the hyperparameters o
 
 If the performance is still not satisfactory, you can try using more complex models such as SVMs or CNNs, which may be able to capture more complex patterns in the data. However,  these models may require more computational resources and training time.
 
-In any case, it is important to properly validate and evaluate the performance of the models to ensure that they are effective at detecting malware.
+In any case, it is important to properly validate and evaluate the performance of the models to ensure that they are effective at detecting malware..
 
