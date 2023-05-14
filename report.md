@@ -4,6 +4,7 @@
 
 **Chain of thought** : 
 - read and parse both benign and malicious data
+- **pretest data readings**
 - combine the malicious and benign data into a single dataset
 - label the data with 1 for malicious and 0 for benign
 - divide the dataset into training and testing sets
