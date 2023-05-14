@@ -2,7 +2,13 @@
 
 **Initial setup**: Unzip pcapng and pcap files for simplicity.
 
-**Chain of thought** : load benign and malicious data, prepare and label accordingly, combine it, split into training and testing sets, train the model, evalute the performance, vizualize results.
+**Chain of thought** : 
+- read and parse both benign and malicious data
+- combine the malicious and benign data into a single dataset
+- label the data with 1 for malicious and 0 for benign
+- divide the dataset into training and testing sets
+- use a machine learning algorithm to train a model on the training set. Make sure to tune the hyperparameters of the classifier.
+- test the accuracy of the model on the testing set. Use metrics like confusion matrix, precision, recall, F1 score, and accuracy to evaluate the performance of the model.
 
 **Model**: *Will start with a simple model and gradually increase the complexity until the best performance is reached.*
 One of the good options will be Random Forests, as it searches for the best feature among a random subset of features.
