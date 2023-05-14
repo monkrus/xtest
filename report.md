@@ -14,6 +14,8 @@
 **Model**: *Will start with a simple model and gradually increase the complexity until the best performance is reached.*
 One of the good options will be Random Forests, as it searches for the best feature among a random subset of features.
 
+**Diagram** Model pipeline is attached in pipeline.jpg
+
 **Next steps**
 After using Random Forests for malware classification, the next step would be to evaluate the performance of the model on a validation set or using cross-validation techniques. We can use metrics such as accuracy, precision, recall, and F1-score to evaluate the performance of the model.
 
