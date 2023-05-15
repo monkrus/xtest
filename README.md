@@ -1,6 +1,8 @@
- **Installation**
-!pip install scapy numpy pandas matplotlib scikit-learn
-pip install -r requirements.txt
+ **Install**
+ - `!pip install scapy numpy pandas matplotlib scikit-learn`
+
+ **Requirements**
+ - `pip install -r requirements.txt`
 
 **Run**
 - navigate to the .ipynb file you and click on it to open it in your browser.
