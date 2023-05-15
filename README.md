@@ -5,7 +5,7 @@
  - `pip install -r requirements.txt`
 
 **Run**
-- navigate to the .ipynb file you and click on it to open it in your browser.
+- navigate to the Findus.ipynb file you and click on it to open it in your browser.
 - copy the URL of the Jupyter Notebook file from the browser's address bar.
 - open a new tab in your browser and go to https://mybinder.org/.
 - in the "GitHub repository name or URL" field, paste the URL of repository.
