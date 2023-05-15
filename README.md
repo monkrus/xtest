@@ -17,3 +17,9 @@
 - wait for the environment to launch, which may take a few minutes.
 - once the environment has launched, you should see the Jupyter Notebook file displayed in your browser.
 - click the "Run" button to execute the code cells in the notebook.
+
+**Tests**
+- TestMalwareDetection ensures that the malware detection code correctly classifies malware and benign network traffic.
+ The test passes if the accuracy of the model is greater than 90%.
+
+- TestExtractFeatures ensures that the `extract_features()` function correctly extracts the features from a TCP and UDP packet.
